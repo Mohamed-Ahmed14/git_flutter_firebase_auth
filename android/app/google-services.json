@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273908359208",
+    "project_id": "eraasoft-ff4ed",
+    "storage_bucket": "eraasoft-ff4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273908359208:android:729c890cbc4f1641ec151d",
+        "android_client_info": {
+          "package_name": "com.home.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhYO5QQtrXieupxVtXc5bBltZi0wDIsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
